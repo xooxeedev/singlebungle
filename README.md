@@ -16,11 +16,10 @@
         <li><a href="#회원가입">회원가입</a></li>
         <li><a href="#아이디/비밀번호 찾기">아이디/비밀번호 찾기</a></li>
         <li><a href="#만남의-광장-게시글-수정">로그인</a></li>
-        <li><a href="#만남의-광장-게시글-삭제">만남의 광장 게시글 삭제</a></li>
-        <li><a href="#search">검색(카테고리)</a></li>
-        <li><a href="#reply">댓글/답글 작성, 수정, 삭제, 신고</a></li>
-        <li><a href="#참여신청">참여신청</a></li>
-        <li><a href="#채팅">채팅</a></li>
+        <li><a href="#만남의-광장-게시글-삭제">마이페이지 조회</a></li>
+        <li><a href="#search">내 정보 수정</a></li>
+        <li><a href="#reply">비밀번호 변경</a></li>
+        <li><a href="#참여신청">회원탈퇴</a></li>
       </ul>
     </li>
   </ol>
@@ -208,5 +207,6 @@
 감사합니다😄
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5Mjc0NjY4LDE0OTQzNjE2ODJdfQ==
+eyJoaXN0b3J5IjpbMTUxMTE3MzYwOSw2NDkyNzQ2NjgsMTQ5ND
+M2MTY4Ml19
 -->
