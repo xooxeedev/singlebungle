@@ -62,7 +62,6 @@
   - WebSocket을 이용한 실시간 채팅
 
 * 구현 기능
-
   - 회원가입
   - 아이디/비밀번호 찾기
   - 로그인
@@ -211,6 +210,6 @@
 감사합니다😄
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDk5NzU0NywxNTExMTczNjA5LDY0OT
-I3NDY2OCwxNDk0MzYxNjgyXX0=
+eyJoaXN0b3J5IjpbLTIwMzY3NzIwMzUsMTUxMTE3MzYwOSw2ND
+kyNzQ2NjgsMTQ5NDM2MTY4Ml19
 -->
