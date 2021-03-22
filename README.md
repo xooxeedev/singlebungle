@@ -54,7 +54,8 @@
   - 강수정 : 만남의 광장 게시판 CRUD, 채팅
   - 강보령 : 싱글이의 영수증 게시판 CRUD, 쪽지
   - 김현혜 : 공지사항 게시판 CRUD, 고객센터 게시판 CRUD, 관리자
-  - 신주희 : 회원가입, 로그인, 마이페이지
+  - 신주희 : 회원가입, 아이디/비밀번호 찾기, 로그인, 마이페이지 조회, 
+내 정보 수정, 비밀번호 변경, 회원탈퇴
   - 이솔이 : 일상을 말해봐 게시판 CRUD, 먹보의 하루 게시판 CRUD
   - 이한솔 : 벙글 장터 게시판 CRUD
 
@@ -70,11 +71,7 @@
   - 비밀번호 변경
   - 회원탈퇴
 
-* 설계의 주안점
-  - 먹보의 하루 게시판 글 작성 시 맛집 위치를 지도에 표시할 수 있도록 할 것.
-  - 벙글 장터 게시판 글 작성 시 작성자의 동네 위치를 인증할 것.
-  - 만남의 광장 게시판 참여 회원 간의 채팅이 가능할 수 있도록 할 것.
-  - 원활한 소통을 위해 회원 간의 쪽지 보내기/받기가 가능하게 할 것.
+
 
 * DB 설계<br>
 ![singlebungle](https://user-images.githubusercontent.com/72387870/111110444-e7c9fa00-859f-11eb-926b-ac04e8e5d0ab.png)
@@ -210,6 +207,6 @@
 감사합니다😄
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1NDM2NjQ4LDE1MTExNzM2MDksNjQ5Mj
-c0NjY4LDE0OTQzNjE2ODJdfQ==
+eyJoaXN0b3J5IjpbMTY1ODc2OTkzOCw0MDU0MzY2NDgsMTUxMT
+E3MzYwOSw2NDkyNzQ2NjgsMTQ5NDM2MTY4Ml19
 -->
