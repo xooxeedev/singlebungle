@@ -59,7 +59,7 @@
   - 이한솔 : 벙글 장터 게시판 CRUD
 
 * 프로젝트 시 활용해본 대표 기술
-  - WebSocket을 이용한 실시간 채팅
+  - 회원가입시 이메일 인증
 
 * 구현 기능
   - 회원가입
@@ -210,6 +210,6 @@
 감사합니다😄
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzY3NzIwMzUsMTUxMTE3MzYwOSw2ND
-kyNzQ2NjgsMTQ5NDM2MTY4Ml19
+eyJoaXN0b3J5IjpbNDA1NDM2NjQ4LDE1MTExNzM2MDksNjQ5Mj
+c0NjY4LDE0OTQzNjE2ODJdfQ==
 -->
