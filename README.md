@@ -54,8 +54,7 @@
   - 강수정 : 만남의 광장 게시판 CRUD, 채팅
   - 강보령 : 싱글이의 영수증 게시판 CRUD, 쪽지
   - 김현혜 : 공지사항 게시판 CRUD, 고객센터 게시판 CRUD, 관리자
-  - 신주희 : 회원가입, 아이디/비밀번호 찾기, 로그인, 마이페이지 조회, 
-내 정보 수정, 비밀번호 변경, 회원탈퇴
+  - 신주희 : 로그인, 회원가입, 아이디/비밀번호 찾기, 마이페이지 기능
   - 이솔이 : 일상을 말해봐 게시판 CRUD, 먹보의 하루 게시판 CRUD
   - 이한솔 : 벙글 장터 게시판 CRUD
 
@@ -80,7 +79,7 @@
 
 # 📝구현 기능
 
-## 만남의 광장 게시글 목록 조회
+## 회원가입
 
   * 화면 설명 : 만남의 광장 게시글 목록 조회 페이지입니다.
    ![7_게시글_목록](https://user-images.githubusercontent.com/72387870/111642003-08fd4580-8841-11eb-8df3-f4eb2b6dcf57.png)
@@ -207,6 +206,7 @@
 감사합니다😄
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODc2OTkzOCw0MDU0MzY2NDgsMTUxMT
-E3MzYwOSw2NDkyNzQ2NjgsMTQ5NDM2MTY4Ml19
+eyJoaXN0b3J5IjpbLTE0NzgxMTYzMTksMTY1ODc2OTkzOCw0MD
+U0MzY2NDgsMTUxMTE3MzYwOSw2NDkyNzQ2NjgsMTQ5NDM2MTY4
+Ml19
 -->
