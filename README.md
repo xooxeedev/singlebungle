@@ -95,7 +95,7 @@
 
 ## 회원가입
 
-  * 화면 설명 : 마음이 맞는 친구를 찾기 위해 게시글을 작성하는 페이지입니다.
+  * 화면 설명 : 회원가입 페이지입니다.
    ![녹화_2021_03_15_15_53_57_187](https://user-images.githubusercontent.com/72387870/111114636-d801e400-85a6-11eb-8825-508c0fe775bc.gif)
    
   * 구현 기능 설명
@@ -208,7 +208,7 @@
 감사합니다😄
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDE0OTM0NywtMTEzMzQ3MzIsLTE0Nz
-gxMTYzMTksMTY1ODc2OTkzOCw0MDU0MzY2NDgsMTUxMTE3MzYw
-OSw2NDkyNzQ2NjgsMTQ5NDM2MTY4Ml19
+eyJoaXN0b3J5IjpbLTg5Njg0NTc0MiwxOTQ0MTQ5MzQ3LC0xMT
+MzNDczMiwtMTQ3ODExNjMxOSwxNjU4NzY5OTM4LDQwNTQzNjY0
+OCwxNTExMTczNjA5LDY0OTI3NDY2OCwxNDk0MzYxNjgyXX0=
 -->
