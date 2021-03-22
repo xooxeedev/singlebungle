@@ -86,10 +86,10 @@
 
    
   * 구현 기능 설명
-- 우측 상단에 로그인 글씨를 클릭하면 로그인 페이지로 이동합니다.
-- 인풋창에 아이디와 비밀번호를 입력하고 로그인 버튼을 누르면 로그인이 됩니다.
-- 아이디 저장 체크박스를 누르면, 다음 로그인시 아이디가 저장됩니다.
-- 로그인 버튼 밑에 아이디찾기/비밀번호찾기/회원가입 버튼을 넣었습니다.
+	-	네비게이션 우측 상단에 로그인 글씨를 클릭하면 로그인 페이지로 이동합니다.
+	- 인풋창에 아이디와 비밀번호를 입력하고 로그인 버튼을 누르면 로그인이 됩니다.
+	- 아이디 저장 체크박스를 누르면, 다음 로그인시 아이디가 저장됩니다.
+	- 로그인 버튼 밑에 아이디찾기/비밀번호찾기/회원가입 버튼을 넣었습니다.
 
 ------------
 
@@ -208,7 +208,7 @@
 감사합니다😄
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDA0NDYxMDYsLTE0NzgxMTYzMTksMT
-Y1ODc2OTkzOCw0MDU0MzY2NDgsMTUxMTE3MzYwOSw2NDkyNzQ2
-NjgsMTQ5NDM2MTY4Ml19
+eyJoaXN0b3J5IjpbLTExMzM0NzMyLC0xNDc4MTE2MzE5LDE2NT
+g3Njk5MzgsNDA1NDM2NjQ4LDE1MTExNzM2MDksNjQ5Mjc0NjY4
+LDE0OTQzNjE2ODJdfQ==
 -->
