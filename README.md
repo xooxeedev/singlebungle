@@ -13,8 +13,8 @@
     </li>
     <li><a href="#구현-기능">구현 기능</a>
       <ul>
-        <li><a href="#만남의-광장-게시글-목록-조회">만남의 광장 게시글 목록 조회</a></li>
-        <li><a href="#만남의-광장-게시글-등록">만남의 광장 게시글 등록</a></li>
+        <li><a href="#회원가입">회원가입</a></li>
+        <li><a href="#아이디/비밀번호 찾기">아이디/비밀번호 찾기</a></li>
         <li><a href="#만남의-광장-게시글-수정">만남의 광장 게시글 수정</a></li>
         <li><a href="#만남의-광장-게시글-삭제">만남의 광장 게시글 삭제</a></li>
         <li><a href="#search">검색(카테고리)</a></li>
@@ -208,5 +208,5 @@
 감사합니다😄
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDM2MTY4Ml19
+eyJoaXN0b3J5IjpbLTE2NzE5NTUxNDksMTQ5NDM2MTY4Ml19
 -->
