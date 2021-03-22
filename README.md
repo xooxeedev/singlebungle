@@ -93,7 +93,7 @@
 
 ------------
 
-## 만남의 광장 게시글 등록
+## 회원가입
 
   * 화면 설명 : 마음이 맞는 친구를 찾기 위해 게시글을 작성하는 페이지입니다.
    ![녹화_2021_03_15_15_53_57_187](https://user-images.githubusercontent.com/72387870/111114636-d801e400-85a6-11eb-8825-508c0fe775bc.gif)
@@ -208,7 +208,7 @@
 감사합니다😄
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzM0NzMyLC0xNDc4MTE2MzE5LDE2NT
-g3Njk5MzgsNDA1NDM2NjQ4LDE1MTExNzM2MDksNjQ5Mjc0NjY4
-LDE0OTQzNjE2ODJdfQ==
+eyJoaXN0b3J5IjpbMTk0NDE0OTM0NywtMTEzMzQ3MzIsLTE0Nz
+gxMTYzMTksMTY1ODc2OTkzOCw0MDU0MzY2NDgsMTUxMTE3MzYw
+OSw2NDkyNzQ2NjgsMTQ5NDM2MTY4Ml19
 -->
