@@ -62,10 +62,14 @@
   - WebSocket을 이용한 실시간 채팅
 
 * 구현 기능
-  - 만남의 광장 게시글 등록, 수정, 삭제, 신고
-  - 검색(카테고리)
-  - 댓글/답글 작성, 수정, 삭제, 신고
-  - 채팅(WebSocket)
+
+  - 회원가입
+  - 아이디/비밀번호 찾기
+  - 로그인
+  - 마이페이지 조회 
+  - 내 정보 수정
+  - 비밀번호 변경
+  - 회원탈퇴
 
 * 설계의 주안점
   - 먹보의 하루 게시판 글 작성 시 맛집 위치를 지도에 표시할 수 있도록 할 것.
@@ -207,6 +211,6 @@
 감사합니다😄
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzg0MzkyOTksMTUxMTE3MzYwOSw2ND
-kyNzQ2NjgsMTQ5NDM2MTY4Ml19
+eyJoaXN0b3J5IjpbMTk1MDk5NzU0NywxNTExMTczNjA5LDY0OT
+I3NDY2OCwxNDk0MzYxNjgyXX0=
 -->
