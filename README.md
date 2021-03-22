@@ -79,15 +79,17 @@
 
 # 📝구현 기능
 
-## 회원가입
+## 로그인
 
-  * 화면 설명 : 만남의 광장 게시글 목록 조회 페이지입니다.
-   ![7_게시글_목록](https://user-images.githubusercontent.com/72387870/111642003-08fd4580-8841-11eb-8df3-f4eb2b6dcf57.png)
+  * 화면 설명 : 로그인 페이지입니다.
+   ![로그인](https://user-images.githubusercontent.com/73690758/111954922-2b86ab80-8b2c-11eb-91f4-adedcf5a9e1a.JPG)
+
    
   * 구현 기능 설명
       - 목록 조회 시 원하는 조건의 게시글을 찾기 쉽게 하기 위해, 지역, 카테고리, 모집 성별, 실시간 모집인원을 확인할 수 있도록 했습니다.
       - 한 페이지당 10개의 목록이 출력되며 그 이상은 페이징 바를 이용하여 조회할 수 있습니다.
       - 조회하고 싶은 목록을 클릭하면 상세 보기 페이지로 이동됩니다.
+      - 
 
 ------------
 
@@ -206,7 +208,7 @@
 감사합니다😄
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzgxMTYzMTksMTY1ODc2OTkzOCw0MD
-U0MzY2NDgsMTUxMTE3MzYwOSw2NDkyNzQ2NjgsMTQ5NDM2MTY4
-Ml19
+eyJoaXN0b3J5IjpbLTEwMTk2NzQ2ODEsLTE0NzgxMTYzMTksMT
+Y1ODc2OTkzOCw0MDU0MzY2NDgsMTUxMTE3MzYwOSw2NDkyNzQ2
+NjgsMTQ5NDM2MTY4Ml19
 -->
