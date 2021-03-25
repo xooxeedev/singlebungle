@@ -96,11 +96,11 @@
 ## 회원가입
 
   * 화면 설명 : 회원가입 페이지입니다.
-   ![녹화_2021_03_15_15_53_57_187](https://user-images.githubusercontent.com/72387870/111114636-d801e400-85a6-11eb-8825-508c0fe775bc.gif)
    
   * 구현 기능 설명
      - 카테고리, 지역, 모임 장소, 날짜, 시간, 인원, 성별을 지정할 수 있습니다.
-     - 지난 날짜를 선택했을 경우에는 알림 창이 뜨도록 구현하였습니다.<br>
+     - 지난 날짜를 선택했을 경우에는 알림 창이 뜨도록 구현하였습니다.
+ 
      ![1_게시글 작성_모임날짜](https://user-images.githubusercontent.com/72387870/111111157-2e6c2400-85a1-11eb-85d5-aaa8036980b6.png)
      - 내용은 summernote를 이용하여 작성할 수 있도록 구현했습니다.<br> 이미지 첨부 시 ajax를 통해 이미지가 저장되고 화면에 출력 됩니다.
      - 모든 요소 작성 후 등록 버튼 클릭 시 글이 작성되고 상세조회 페이지로 이동합니다.<br>
@@ -208,7 +208,8 @@
 감사합니다😄
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5Njg0NTc0MiwxOTQ0MTQ5MzQ3LC0xMT
-MzNDczMiwtMTQ3ODExNjMxOSwxNjU4NzY5OTM4LDQwNTQzNjY0
-OCwxNTExMTczNjA5LDY0OTI3NDY2OCwxNDk0MzYxNjgyXX0=
+eyJoaXN0b3J5IjpbLTkyNjMyODUzLC04OTY4NDU3NDIsMTk0ND
+E0OTM0NywtMTEzMzQ3MzIsLTE0NzgxMTYzMTksMTY1ODc2OTkz
+OCw0MDU0MzY2NDgsMTUxMTE3MzYwOSw2NDkyNzQ2NjgsMTQ5ND
+M2MTY4Ml19
 -->
